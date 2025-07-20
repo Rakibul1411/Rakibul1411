@@ -153,8 +153,8 @@ Welcome to my developer portfolio! Below you’ll find a comprehensive overview 
 
 <p>
   <img alt="JUnit" src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white" />
-  <img alt="pytest" src="https://img.shields.io/badge/pytest-464646?style=for-the-badge&logo=pytest&logoColor=white" />
-  <img alt="unittest" src="https://img.shields.io/badge/unittest-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="PiTest" src="https://img.shields.io/badge/PiTest-464646?style=for-the-badge&logo=pitest&logoColor=white" />
+<!--   <img alt="unittest" src="https://img.shields.io/badge/unittest-3776AB?style=for-the-badge&logo=python&logoColor=white" /> -->
   <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
   <img alt="JaCoCo" src="https://img.shields.io/badge/JaCoCo-C3002F?style=for-the-badge&logo=java&logoColor=white" />
 </p>
