@@ -2,8 +2,21 @@
   <img src="https://komarev.com/ghpvc/?username=Rakibul1411&color=blue&style=flat-square" alt="Profile Views" />
 </div>
 
-<h1 align="center">Assalamu Alaikum 👋 I'm Md. Rakibul Islam</h1>
-<h3 align="center">Software Engineering Undergraduate | Bangladesh</h3>
+<div align="center" style="background: #0e2431; padding: 20px; border-radius: 12px;">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Borel&color=FFB400&size=32&center=true&vCenter=true&width=800&height=60&lines=----+AssalamuAlaikum%2C+I+am+Rakibul+----+&repeat=false"
+    alt="Typing SVG"
+  />
+</div>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=1FDA9A&size=25&center=true&vCenter=true&width=800&height=100&lines=Software+Engineering+Undergrad+IIT,+DU+|+Bangladesh;Full+Stack+Developer;Passionate+about+learning;"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
 
 <img align="right" width="350" height="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
